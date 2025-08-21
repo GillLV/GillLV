@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Just a place for me to explore some things. I like logic and math and complicated systems that make my brain go brrrrrrrrr. 
+
+C++ since 2020 | Python is cool I guess  
 <!--
 **GillLV/GillLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
