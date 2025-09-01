@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Just a place for me to explore some things. I like logic and math and complicated systems that make give me a dopamine hit. 
+Just a place for me to explore some things. I like logic and math and complicated systems that give me a dopamine hit. 
 
 C++ since 2020 | Learning Python  
 <!--
